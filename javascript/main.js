@@ -1,4 +1,4 @@
-for (let i = 0; i <= 100; i++) {
+for (let i = 1; i <= 100; i++) {
     const multiplo3 = i % 3 === 0;
     const multiplo5 = i % 5 === 0;
     const multiplo15 = i % 3 === 0 && i % 5 === 0;
